@@ -38,9 +38,8 @@ This is a modern, high-performance, and fully responsive gym website designed fr
 
 ## 🛠️ Tech Stack
 
-* **HTML5:** Semantic structural layout.
-* **CSS3:** Custom styling utilizing Flexbox, hover transitions, and Parallax effects.
-
+* **HTML:**
+* **CSS:**
 ---
 
 ## 🚀 Getting Started
