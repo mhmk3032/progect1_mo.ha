@@ -47,4 +47,4 @@ This is a modern, high-performance, and fully responsive gym website designed fr
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/gym-website.git](https://github.com/your-username/gym-website.git)
+   git clone (https://mhmk3032.github.io/progect1_mo.ha/)
